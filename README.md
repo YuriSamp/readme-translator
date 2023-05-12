@@ -29,7 +29,7 @@ npm install
 
 ### Running the application.
 
-Then, run the application in the command line in any file with readme want and it will translate
+Then, run the application in the command line in any file with readme and it will translate
 
 ```bash
 translate-me
