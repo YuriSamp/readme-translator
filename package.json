@@ -1,0 +1,21 @@
+{
+  "name": "translate",
+  "version": "1.0.0",
+  "description": "Just a cli to translate README",
+  "main": "bin/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": ""
+  },
+  "bin": {
+    "translate-me": "./index.js"
+  },
+  "author": "Yuri",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^1.0.3",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
